@@ -1,7 +1,0 @@
-Options -Indexes
-DirectoryIndex index.php
-AddDefaultCharset utf-8
-Access-Control-Allow-Origin : *
-<IfModule mod_headers.c>
-Header set Access-Control-Allow-Origin "*"
-</IfModule>
